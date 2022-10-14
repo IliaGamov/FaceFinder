@@ -28,4 +28,7 @@ If you want to train this model yourself there is full pipeline inside MotionDet
 
 To create dataset with your own images use make_photos.py script inside collect_images folder, that script uses your webcam and creates 90 images. Single photo is taken every 0.5s
 
+In this repository there are some empty folders. It's purpose is to handle train/test/validation and augmentation train/test/validation images< so you can check if everything fine during your preprocessing.
+
+
 
