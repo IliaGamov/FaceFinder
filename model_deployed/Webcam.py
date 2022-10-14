@@ -8,7 +8,7 @@ import time
 import uuid
 from tensorflow.keras.models import load_model
 
-facetracker = load_model('facetracker.h5', compile=False)
+facetracker = load_model('facetracker.h5')
 cap = cv2.VideoCapture(0)
 while cap.isOpened():
     _ , frame = cap.read()
