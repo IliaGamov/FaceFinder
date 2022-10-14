@@ -7,8 +7,7 @@ This model uses VGG 16 convolutional neural network to extract features. Extract
 
 ![alt text](https://github.com/IliaGamov/FaceDetectionModel/blob/main/readme_images/facedetection.PNG?raw=true)
 
-
-
+Checkout MotionDetection.ipynb there are many comments and text sections that will describe pipeline in details.
 
 # Installing
 
