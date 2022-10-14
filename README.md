@@ -18,7 +18,7 @@ Checkout MotionDetection.ipynb there are many comments and text sections that wi
 - pip install -r requirements.txt
 
 # Using pretrained model
-model_deployed folder has a Webcam.py script that uses already trained model facetracker.h5, to run it yourself just use 
+model_deployed folder has a Webcam.py script that uses already trained model facetracker.h5, to run it yourself just run Webcam.py script in the following way:
 
 - python Webcam.py 
 
