@@ -5,6 +5,8 @@ This model uses VGG 16 convolutional neural network to extract features. Extract
   1) Classification problem: we have to recognize that there is a face on a small area of the screen. 
   2) Regression problem: we need to outline the area of the screen on which the found face is present. For that purpose we need to predict coordinates of a square that bounds founded face.
 
+![alt text](https://github.com/IliaGamov/FaceDetectionModel/tree/main/readme_images/facedetection.PNG?raw=true)
+
 
 
 
