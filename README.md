@@ -1,5 +1,5 @@
-# FaceDetectionModel
-This repository represents a facedetection deeplearning model.
+# FaceFinderDL
+This repository represents a facefinder deeplearning model.
 This model uses VGG 16 convolutional neural network to extract features. Extracted features were used for two problems:
 
   1) Classification problem: we have to recognize that there is a face on a small area of the screen. 
